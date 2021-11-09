@@ -1,4 +1,5 @@
 # numpy_introduction
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/um6plabs/numpy_introduction/HEAD)
 
 ## numpy array
 https://numpy.org/doc/stable/reference/generated/numpy.array.html
